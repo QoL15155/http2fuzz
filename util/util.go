@@ -13,7 +13,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bradfitz/http2"
+	"golang.org/x/net/http2"
 )
 
 func FromBase64(in string) []byte {

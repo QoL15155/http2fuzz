@@ -4,7 +4,7 @@
 // http2fuzz - HTTP/2 Fuzzer
 package replay
 
-import "github.com/c0nrad/http2fuzz/util"
+import "github.com/qol15155/http2fuzz/util"
 
 import "os"
 

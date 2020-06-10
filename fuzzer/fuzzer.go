@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/c0nrad/http2fuzz/config"
-	"github.com/c0nrad/http2fuzz/util"
+	"github.com/qol15155/http2fuzz/config"
+	"github.com/qol15155/http2fuzz/util"
 
-	"github.com/bradfitz/http2"
+	"golang.org/x/net/http2"
 )
 
 type Fuzzer struct {
